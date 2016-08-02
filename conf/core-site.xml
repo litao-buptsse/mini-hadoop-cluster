@@ -23,6 +23,6 @@
   </property>
   <property>
     <name>hadoop.tmp.dir</name>
-    <value>$tmpDir</value>
+    <value>/tmp/hadoop-root/$id</value>
   </property>
 </configuration>
